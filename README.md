@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Souvik Ghosh
-#### Data Scientist
+<h1>Data Scientist</h1>
 ![Data Scientist](https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f)
 
 Pursuing a Master’s in Data Science with 1 year of IT experience. Published research paper in ICCCNT 2023 and specializing in data analysis, machine learning, and Deep Learning.

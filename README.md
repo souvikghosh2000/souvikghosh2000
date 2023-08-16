@@ -1,4 +1,4 @@
-### Hi there 👋, myself Souvik Ghosh
+### Hi there 👋, Souvik Ghosh here
 #### Data Scientist
 ![Data Scientist](https://wallpapercave.com/wp/wqK3rxi.jpg)
 

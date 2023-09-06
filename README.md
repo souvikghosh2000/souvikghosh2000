@@ -1,6 +1,6 @@
 ### Hi there 👋, Souvik Ghosh here
 #### Data Scientist
-![Data Scientist](https://wallpapercave.com/wp/wqK3rxi.jpg)
+![Data Scientist]
 
 Pursuing a Master’s in Data Science with 1 year of IT experience. Published research paper in ICCCNT 2023 and
 specializing in data analysis, machine learning, and Deep Learning.
